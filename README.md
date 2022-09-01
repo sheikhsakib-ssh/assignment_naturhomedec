@@ -1,2 +1,2 @@
-# assignment_naturhomedec
-This is my first assignment project.
+
+https://sheikhsakib-ssh.github.io/assignment_naturhomedec/
