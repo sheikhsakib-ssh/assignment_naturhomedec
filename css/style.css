@@ -1,0 +1,245 @@
+/* common start  */
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4d4d4d;
+}
+/* common end */
+/* header started */
+header{
+    padding: 10px 0;
+    background-color: #252424;
+}
+
+.menu ul li a{
+    color: #ffffff !important;
+    text-transform: uppercase;
+    padding: 0 20px !important;
+    font-weight: 600;
+}
+.menu ul li a:hover{
+    color: #252424 !important;
+    transition: 0.6s;
+    background-color: #fff;
+    border-radius: 10px;
+}
+/* header finished */
+
+/* banner started */
+.banner{
+    background-color: #f4f2e8;
+    padding: 50px 0 100px;
+}
+.l_part{}
+.l_part img{
+}
+.r_part{
+    padding-top: 40px;
+}
+.r_part h5{
+    margin: 0;
+    font-weight: 600;
+    color: #929191;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+.r_part h2{
+    margin: 0;
+    font-size: 47px;
+    font-weight: 700;
+    color: #4d4d4d;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+.r_part p{
+    margin: 0;
+    color: #8f8f8f;
+    padding-bottom: 20px;
+}
+.r_part img{
+    width: 80%;
+    margin-left: 50px;
+    padding: 120px 0 20px;
+}
+.btn_c{
+    width: 160px;
+    height: 40px;
+    color: #f4f2e8;
+    padding: 5px 0;
+    background-color: #4d4d4d;
+    border: none;
+}
+.btn_c:hover{
+    color: #ffffff;
+    background-color: #252525;
+    border-radius: 10px;
+    transition: 0.6s;
+}
+/* banner finished */
+/* download area started */
+.download{
+    background-color: #f4f2e8;
+    padding-bottom: 100px;
+}
+.d_lpart{
+    padding: 60px 20px;
+}
+.d_lpart h1{
+    margin: 0;
+    font-size: 47px;
+    font-weight: 700;
+    line-height: 50px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+.d_lpart p{
+    margin: 0;
+    padding-bottom: 20px;
+}
+.d_rpart{
+   
+}
+
+/* download area finished */
+
+/* product area started  */
+.product{
+    background-color: #f4f2e8;
+    padding-bottom: 50px;
+}
+/* 1st row */
+.p_lpart{
+
+}
+.p_lpart h2{
+    margin: 0;
+    font-size: 47px;
+    font-weight: 700;
+    color: #252424;
+    text-transform: uppercase;
+}
+.p_lpart p{
+    margin: 0;
+}
+/* 2nd row */
+.s_img{
+    margin-top: 80px;
+}
+.s_img h5{
+    margin-top: 30px;
+    font-weight: 700;
+    color: #929191;
+    text-transform: uppercase;
+}
+/* 3rd row */
+.p_btn{
+    margin-top: 40px;
+}
+/* product area finished */
+
+/* about area started */
+.about{
+    padding: 40px 0 30px;
+    background-color: #f4f2e8;
+}
+.a_rpart{
+    padding: 160px 20px;
+}
+/* about area finished */
+
+/* work area started */
+.work{
+    padding: 20px 0;
+    background-color: #f4f2e8;
+}
+.w_img{
+    margin-top: 30px;
+}
+/* work area finished */
+
+/* material area started */
+.material{
+    padding: 50px 0;
+    background-color: #f4f2e8;
+}
+.re_img{
+    margin-left: 150px;
+}
+.re_chair{
+    min-height: 650px;
+}
+/* material area finished */
+
+/* contact area started  */
+.contact{
+    padding: 10px 0 30px;
+    background-color: #f4f2e8;
+}
+.map iframe{
+    width: 100%;
+    padding-top: 20px;
+}
+/* contact area finished */
+
+/* subscribe area started  */
+.subscribe{
+    padding: 90px 20px 120px;
+}
+.form{
+    background-color: #252424;
+    padding: 20px;
+}
+.f_item{
+    color: #ffffff;
+}
+/* subscribe area finished  */
+
+/* footer area started  */
+.footer{
+    padding: 20px 10px;
+    background-color: #252424;
+}
+.logo{
+    padding: 20px 0;
+}
+.f_menu{
+    padding: 10px 0 30px;
+}
+.f_menu ul li{
+    list-style: none;
+    margin-top: 10px;
+}
+.f_menu ul li a{
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding: 0 20px !important;
+   
+}
+.f_menu ul li a:hover{
+    color: #252424 !important;
+    transition: 0.6s;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.hr{
+    color:#ffffff ;
+}
+.f_lpart li{
+    list-style: none;
+}
+.f_lpart span, .f_lpart li a{
+    font-weight: 600;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.f_lpart li a:hover{
+    color: #252424 !important;
+    transition: 0.6s;
+    background-color: #fff;
+    border-radius: 10px;
+}
+/* footer area finished */

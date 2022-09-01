@@ -1,0 +1,337 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /* header started  */
+    /* logo  */
+    .logo img{
+        width: 180px;
+    }
+    /* menu  */
+    .menu ul li{
+        text-align: right;
+    }
+    .menu ul li a{
+        padding:10px 0 0 !important;
+    }
+    /* header finished */
+
+    /* banner started  */
+    .banner{
+        padding: 20px 0 40px;
+    }
+    .l_part img{
+        width: 100%;
+    }
+    .r_part{
+        padding-top: 30px;
+    }
+    .r_part h5{
+        padding-bottom: 10px;
+    }
+    .r_part h2{
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    .r_part p{
+        padding-bottom: 20px;
+    }
+    /* banner finished */
+    /* download area started  */
+    .download{
+        padding-bottom: 40px;
+    }
+    .d_lpart{
+        padding: 30px 20px;
+    }
+    .d_lpart h1{
+        font-size: 20px;
+    }
+    .d_lpart p{
+        padding-bottom: 20px;
+    }
+    
+    /* download area finished */
+    /* product area started  */
+    /* 1st row */
+    .s_img{
+        width: 80% !important;
+    }
+    .p_lpart h2{
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    /* 2nd row  */
+    .s_img{
+        margin-top: 30px;
+    }
+    /* 3rd row */
+    .p_btn{
+        margin-top: 20px;
+    }
+    /* product area finished */
+    /* about area started */
+    .about{
+        padding: 0 0 30px;
+    }
+    .a_rpart{
+        padding: 30px 20px;
+    }
+    /* about area finished */
+
+    /* material area started  */
+    .material{
+        padding:0 0 50px;
+    }
+    .d_lpart h1 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .re_chair{
+        min-height: 350px;
+    }
+    /* material area finished */
+
+    /* subscribe area started  */
+    .subscribe{
+        padding: 20px 10px 40px;
+    }
+    /* subscribe area finished */
+
+    /* footer area started  */
+    .f_menu{
+        padding: 0 0 15px;
+    }
+    /* footer area started  */
+    
+    
+ }
+
+/* small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     /* header started  */
+    /* logo  */
+    .logo img{
+        width: 180px;
+    }
+    /* menu  */
+    .menu ul li{
+        text-align: right;
+    }
+    .menu ul li a{
+        padding:10px 0 0 !important;
+    }
+    /* header finished */
+
+    /* banner started  */
+    .banner{
+        padding: 20px 0 40px;
+    }
+    .l_part img{
+        width: 100%;
+    }
+    .r_part{
+        padding-top: 30px;
+    }
+    .r_part h5{
+        padding-bottom: 10px;
+    }
+    .r_part h2{
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    .r_part p{
+        padding-bottom: 20px;
+    }
+    /* banner finished */
+    /* download area started  */
+    .download{
+        padding-bottom: 40px;
+    }
+    .d_lpart{
+        padding: 30px 20px;
+    }
+    .d_lpart h1{
+        font-size: 20px;
+    }
+    .d_lpart p{
+        padding-bottom: 20px;
+    }
+    
+    /* download area finished */
+    /* product area started  */
+    /* 1st row */
+    .s_img{
+        width: 80% !important;
+    }
+    .p_lpart h2{
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    /* 2nd row  */
+    .s_img{
+        margin-top: 30px;
+    }
+    /* 3rd row */
+    .p_btn{
+        margin-top: 20px;
+    }
+    /* product area finished */
+     /* about area started */
+     .about{
+        padding: 0 0 30px;
+    }
+    .a_rpart{
+        padding: 30px 20px;
+    }
+    /* about area finished */
+    /* material area started  */
+    .material{
+        padding:0 0 50px;
+    }
+    .d_lpart h1 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .re_chair{
+        min-height: 350px;
+    }
+    /* material area finished */
+    /* subscribe area started  */
+    .subscribe{
+        padding: 20px 10px 40px;
+    }
+    /* subscribe area finished */
+    /* footer area started  */
+    .f_menu{
+        padding: 0 0 15px;
+    }
+    /* footer area started  */
+
+   
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header started  */
+    
+    /* menu  */
+    .menu ul li{
+        text-align: right;
+    }
+    .menu ul li a{
+        padding:10px 0 0 !important;
+    }
+    /* header finished */
+
+    /* banner started  */
+    .banner{
+        padding: 20px 0 40px;
+    }
+    .l_part img{
+        width: 90%;
+    }
+    .r_part{
+        padding-top: 20px;
+    }
+    .r_part h5{
+        padding-bottom: 10px;
+    }
+    .r_part h2{
+        font-size: 35px;
+        padding-bottom: 10px;
+    }
+    .r_part p{
+        padding-bottom: 20px;
+    }
+    /* banner finished */
+    /* download area started  */
+    .download{
+        padding-bottom: 0;
+    }
+    .d_lpart h1{
+       font-size: 35px;
+    }
+    .d_rpart{
+        padding: 30px 0;
+    }
+    /* download area finished */
+    /* product area started  */
+    /* 1st row */
+    .p_lpart h2{
+        font-size: 35px;
+        padding-bottom: 10px;
+    }
+    /* 2nd row  */
+    .s_img{
+        margin-top: 30px;
+    }
+    /* 3rd row */
+    .p_btn{
+        margin-top: 20px;
+    }
+    /* product area finished */
+     /* about area started */
+     .about{
+        padding: 0 0 30px;
+    }
+    .a_rpart{
+        padding: 100px 20px;
+    }
+    /* about area finished */
+    /* material area started */
+    .material{
+        padding: 50px 0;
+    }
+    .re_img{
+        width: 60% !important;
+        margin-left: 130px;
+    }
+    .re_chair{
+        min-height: 550px;
+    }
+    /* material area finished */
+    /* subscribe area started  */
+    .subscribe{
+        padding: 10px 0 20px;
+    }
+    /* subscribe area finished */
+    /* footer area started  */
+    .f_menu{
+        padding: 10px 0;
+    }
+    /* footer area started  */
+
+    
+   
+
+ }
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+ }
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /* banner  start*/
+    .r_part img{
+        width: 90%;
+        padding: 210px 0 20px;
+    }
+
+    /* banner end */
+}
+
+
+/* Extra extra large devices ( extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+ /* banner  start*/
+ .r_part img{
+    width: 90%;
+    padding: 210px 0 20px;
+}
+
+/* banner end */
+}
